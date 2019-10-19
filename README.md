@@ -13,4 +13,4 @@ Requires python 2.x and pexpect package to run. Invoke as
 
 or
 
-`python -u modstat.py : tee log.csv`
+`python -u modstat.py | tee log.csv`
